@@ -2,7 +2,7 @@
 
 This folder is a complete static website. It runs the Python conversion engine in the visitor's browser with Pyodide; selected character files are not uploaded to a server.
 
-The site is tested in Foundry Gamerooms using 2024 rules and produces JSON for Roll20's legacy 2014 sheet.
+The site is tested in Foundry Gamerooms using 2024 rules and produces JSON for Roll20's legacy 2014 sheet. Bear.
 
 ## Publish as a new GitHub repository
 
